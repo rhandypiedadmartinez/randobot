@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+import random
 
 def get_most_similar_response(df, query, top_k=1):
     # Step 1: Prepare Data
@@ -25,7 +26,7 @@ def get_most_similar_response(df, query, top_k=1):
 
 st.title("RandoBot")
 
-df = pd.read_csv('https://raw.githubusercontent.com/rhandypiedadmartinez/randobot/main/app/df.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/rhandypiedadmartinez/randobot/main/app/df.csv', delimiter=";")
 
 # Initialize chat history
 if "messages" not in st.session_state:
@@ -37,14 +38,18 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # React to user input
-if prompt := st.chat_input("Ask about Philippine History, Programming, and Science"):
+if prompt := st.chat_input("Ask about Philippine History, Programming, and Science, or type 'trivia'"):
     # Display user message in chat message container
     st.chat_message("user").markdown(f"You: {prompt}")
 
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": f"You: {prompt}"})
 
-    responses = get_most_similar_response(df, prompt)
+    if prompt == "trivia":
+        index = responses 
+        responses = df[""]
+    else:
+        responses = get_most_similar_response(df, prompt)
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
