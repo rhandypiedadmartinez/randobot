@@ -39,10 +39,10 @@ for message in st.session_state.messages:
 # React to user input
 if prompt := st.chat_input("Ask about Philippine History, Programming, and Science"):
     # Display user message in chat message container
-    st.chat_message("You").markdown(prompt)
+    st.chat_message("user").markdown(f"You: {prompt}")
 
     # Add user message to chat history
-    st.session_state.messages.append({"role": "user", "content": prompt})
+    st.session_state.messages.append({"role": "user", "content": f"You: {prompt}"})
 
     responses = get_most_similar_response(df, prompt)
 
