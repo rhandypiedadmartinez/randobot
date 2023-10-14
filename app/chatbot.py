@@ -52,7 +52,7 @@ if prompt := st.chat_input("Ask about the Human Body, or type 'trivia'"):
     responses = ""
     if prompt == "trivia":
         trivia = df.iloc[random.randint(0,103)] 
-        responses = ["TRIVIA: " + trivia["user_chat"] + " " + trivia["response"]]
+        responses = ["Here's a trivia: " + trivia["user_chat"] + " Answer: " + trivia["response"]]
     else:
         responses = get_most_similar_response(df, prompt)
 
