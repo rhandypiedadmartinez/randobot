@@ -1,152 +1,359 @@
 user_chat;response
-What is the largest organ in the human body?;Skin
-What is the purpose of the respiratory system?;Breathing
-What is the human heart's primary function?;Pumping blood
-What are the four main blood types?;A, B, AB, O
-What is the function of the liver in the human body?;Metabolism
-What is the body's largest bone?;Femur
-What is the primary function of the kidneys?;Filtration and waste removal
-What is the purpose of the digestive system?;Nutrient absorption
-What is the central nervous system composed of?;Brain, spinal cord
-What is the smallest bone in the human body?;Stapes (in the ear)
-What are red blood cells responsible for?;Oxygen transport
-What are white blood cells essential for?;Immune response
-What is the function of platelets in the blood?;Clotting
-What is the body's main temperature-regulating organ?;Skin
-What is the role of the pancreas in the human body?;Blood sugar regulation
-What is the function of the gallbladder?;Bile storage
-What is the purpose of the spleen?;Immune response
-What is the body's largest internal organ?;Liver
-What are the main parts of the brain?;Cerebrum, cerebellum, brainstem
-What does the cerebrum control?;Higher brain functions
-What is the cerebellum responsible for?;Balance and coordination
-What are the lobes of the brain?;Frontal, parietal, temporal, occipital
-What is the brain's primary communication system?;Neurons
-What is the purpose of the spinal cord?;Nerve signal transmission
-What is the function of the cornea in the eye?;Light refraction
-What is the lens of the eye responsible for?;Focusing
-What is the retina's role in vision?;Image perception
-What is the purpose of the iris in the eye?;Pupil regulation
-What is the function of the eardrum?;Sound transmission
-What are the main types of muscle tissue?;Skeletal, smooth, cardiac
-What is the largest human muscle?;Gluteus maximus
-What is the purpose of the respiratory system?;Breathing
-What is the trachea?;Windpipe
-What is the role of the bronchi in the respiratory system?;Airway branching
-What are alveoli in the lungs responsible for?;Gas exchange
-What is the diaphragm's function?;Breathing muscle
-What is the circulatory system's main function?;Blood transport
-What is the difference between arteries and veins?;Blood direction
-What is the purpose of the lymphatic system?;Immune support
-What are the tonsils in the human body?;Throat lymphoid tissue
-What are the functions of the small intestine?;Nutrient absorption
-What is the large intestine's role in digestion?;Water absorption
-What is the function of the esophagus in the digestive system?;Food passage
-What is the role of the epiglottis in the respiratory system?;Windpipe protection
-What is the pituitary gland's function?;Hormone regulation
-What are hormones in the human body?;Chemical messengers
-What is the role of the thyroid gland?;Metabolic regulation
-What is the function of the adrenal glands?;Stress response
-What is the purpose of the parathyroid glands?;Calcium regulation
-What are the main components of blood?;Red cells, white cells, platelets
-What is the function of the red bone marrow?;Blood cell production
-What is the function of the thymus gland?;Immune system development
-What is the difference between tendons and ligaments?;Muscle to bone, bone to bone
-What is the role of the hypothalamus in the brain?;Temperature, hormones
-What is the function of the pituitary gland?;Master gland, gland control
-What is the pineal gland's function?;Sleep, rhythms
-What is the difference between gray matter and white matter in the brain?;Cell bodies, nerve fibers
-What is the purpose of the spinal cord in the nervous system?;Nerve signal relay
-What is the function of the optic nerve in vision?;Visual info transmission
-What are rods and cones in the eye responsible for?;Photoreceptors, vision
-What is the role of the iris in the eye?;Light regulation
-What is the function of the cochlea in the ear?;Hearing
-What is the vestibular system's role in balance?;Head position detection
-What are the main types of joints in the human body?;Ball, hinge, pivot
-What is the function of the biceps muscle in the arm?;Arm flexion
-What is the triceps muscle's role in the arm?;Arm extension
-What are the quadriceps in the leg responsible for?;Leg extension
-What are hamstrings in the leg responsible for?;Leg flexion
-What is the cardiovascular system's main purpose?;Blood circulation
-What is the role of the pulmonary system?;Lung function
-What are the organs in the digestive system?;Stomach, intestines
-What is the purpose of the respiratory system?;Breathing
-What is the function of the trachea?;Windpipe
-What is the primary role of the bronchi?;Airway branching
-What are alveoli responsible for?;Gas exchange
-What is the diaphragm's function?;Breathing muscle
-What is the main function of the circulatory system?;Blood transport
-What's the distinction between arteries and veins?;Blood direction
-What is the lymphatic system's purpose?;Immune support
-What is the role of the tonsils?;Throat lymphoid tissue
-What is the small intestine's function?;Nutrient absorption
-What is the large intestine's role in digestion?;Water absorption
-What is the esophagus responsible for?;Food passage
-What is the epiglottis' role in the respiratory system?;Windpipe protection
-What is the pituitary gland's function?;Hormone regulation
-What are hormones in the body?;Chemical messengers
-What does the thyroid gland regulate?;Metabolism
-What is the purpose of the adrenal glands?;Stress response
-What is the function of the parathyroid glands?;Calcium regulation
-What are the blood's main components?;Red cells, white cells, platelets
-What does red bone marrow do?;Blood cell production
-What is the thymus gland's function?;Immune system development
-How do tendons and ligaments differ?;Muscle to bone, bone to bone
-What is the role of the hypothalamus?;Temperature, hormones
-What is the pituitary gland's role?;Hormone regulation
-What is the pineal gland's function?;Sleep, rhythms
-What's the distinction between gray matter and white matter?;Cell bodies, nerve fibers
-What is the spinal cord's purpose?;Nerve signal relay
-What is the function of the optic nerve?;Visual info transmission
-What are rods and cones in the eye responsible for?;Photoreceptors, vision
-What is the role of the iris in the eye?;Light regulation
-What is the function of the cochlea in the ear?;Hearing
-What is the vestibular system's role in balance?;Head position detection
-What are the primary joint types?;Ball, hinge, pivot
-What is the biceps muscle's function in the arm?;Arm flexion
-What is the triceps muscle's role in the arm?;Arm extension
-What do quadriceps do in the leg?;Leg extension
-What do hamstrings do in the leg?;Leg flexion
-What is the cardiovascular system's main purpose?;Blood circulation
-What is the pulmonary system's function?;Lung function
-What are the digestive system organs?;Stomach, intestines
-What is the purpose of the respiratory system?;Breathing
-What is the function of the trachea?;Windpipe
-What is the primary role of the bronchi?;Airway branching
-What are alveoli responsible for?;Gas exchange
-What is the diaphragm's function?;Breathing muscle
-What is the main function of the circulatory system?;Blood transport
-What's the distinction between arteries and veins?;Blood direction
-What is the lymphatic system's purpose?;Immune support
-What is the role of the tonsils?;Throat lymphoid tissue
-What is the small intestine's function?;Nutrient absorption
-What is the large intestine's role in digestion?;Water absorption
-What is the esophagus responsible for?;Food passage
-What is the epiglottis' role in the respiratory system?;Windpipe protection
-What is the pituitary gland's function?;Hormone regulation
-What are hormones in the body?;Chemical messengers
-What does the thyroid gland regulate?;Metabolism
-What is the purpose of the adrenal glands?;Stress response
-What is the function of the parathyroid glands?;Calcium regulation
-What are the blood's main components?;Red cells, white cells, platelets
-What does red bone marrow do?;Blood cell production
-What is the thymus gland's function?;Immune system development
-How do tendons and ligaments differ?;Muscle to bone, bone to bone
-What is the role of the hypothalamus?;Temperature, hormones
-What is the pituitary gland's role?;Hormone regulation
-What is the pineal gland's function?;Sleep, rhythms
-What's the distinction between gray matter and white matter?;Cell bodies, nerve fibers
-What is the spinal cord's purpose?;Nerve signal relay
-What is the function of the optic nerve?;Visual info transmission
-What are rods and cones in the eye responsible for?;Photoreceptors, vision
-What is the role of the iris in the eye?;Light regulation
-What is the function of the cochlea in the ear?;Hearing
-What is the vestibular system's role in balance?;Head position detection
-What are the primary joint types?;Ball, hinge, pivot
-What is the biceps muscle's function in the arm?;Arm flexion
-What is the triceps muscle's role in the arm?;Arm extension
-What do quadriceps do in the leg?;Leg extension
-What do hamstrings do in the leg?;Leg flexion
-What is the cardiovascular system's main purpose?;Blood circulation
-What is the pulmonary system's function?;Lung function
-What are the digestive system organs?;Stomach, intestines
+What's the body's largest organ?;Skin
+How many chambers are in the human heart?;Four
+Which bone is the longest in the human body?;Femur
+What's the body's primary respiratory organ?;Lungs
+What's the smallest bone in the human body?;Stapes
+Which part of the brain is responsible for motor control?;Cerebellum
+What is the body's main digestive enzyme called?;Amylase
+What's the smallest blood vessel in the body?;Capillary
+What is the body's natural pacemaker called?;SA node
+What are the body's primary blood cells?;Red blood cells
+What's the body's powerhouse organelle?;Mitochondria
+Which gland regulates metabolism?;Thyroid
+What's the body's longest nerve?;Sciatic nerve
+What's the largest internal organ?;Liver
+Which gas do we exhale when we breathe out?;Carbon dioxide
+What's the body's primary male sex hormone?;Testosterone
+Which hormone regulates blood sugar?;Insulin
+What is the human body's natural painkiller?;Endorphins
+What's the primary job of the alveoli in the lungs?;Gas exchange
+What's the body's primary energy storage molecule?;ATP
+What's the body's primary "fight or flight" hormone?;Adrenaline
+What is the primary component of hair and nails?;Keratin
+What is the body's natural "feel good" neurotransmitter?;Dopamine
+What's the body's main fat-digesting organ?;Pancreas
+What is the body's primary method for cooling down?;Sweating
+What's the body's primary muscle for breathing?;Diaphragm
+Which gland produces melatonin for sleep regulation?;Pineal gland
+What's the body's primary mineral for bone health?;Calcium
+What's the body's primary female sex hormone?;Estrogen
+What is the largest type of blood vessel?;Aorta
+What is the body's primary function of red blood cells?;Carry oxygen
+What is the body's primary function of white blood cells?;Immune defense
+What is the body's primary function of platelets?;Blood clotting
+What's the body's primary source of vitamin D?;Sunlight
+What is the body's primary function of the spleen?;Blood filtering
+What's the primary function of the esophagus?;Transport food to the stomach
+What is the body's primary storage site for iron?;Liver
+What's the body's primary filtration organ for blood?;Kidneys
+What's the body's largest endocrine gland?;Thyroid
+Which hormone regulates salt balance?;Aldosterone
+What is the primary function of the small intestine?;Nutrient absorption
+What is the body's primary male reproductive organ?;Testes
+What is the body's primary female reproductive organ?;Ovaries
+What is the primary function of the gallbladder?;Store and release bile
+What's the body's primary vein for carrying deoxygenated blood to the heart?;Vena cava
+What's the body's primary artery carrying oxygenated blood from the heart?;Aorta
+What's the primary neurotransmitter responsible for muscle contraction?;Acetylcholine
+What's the body's primary sugar used for energy?;Glucose
+What is the primary function of the epiglottis?;Prevent food from entering the windpipe
+What's the body's primary brain chemical responsible for mood regulation?;Serotonin
+What's the primary site for urine storage in the body?;Bladder
+What is the body's primary function of the appendix?;Unknown, but may help with immune function
+What's the body's primary storage site for excess glucose?;Liver
+Which hormone is produced by the adrenal glands in response to stress?;Cortisol
+What's the primary function of the eardrum (tympanic membrane)?;Transmit sound vibrations to the middle ear
+What's the body's primary mineral for muscle contraction and nerve function?;Calcium
+What is the body's primary immune defense in the blood?;White blood cells
+What is the body's primary location for converting waste products into urine?;Kidneys
+What's the body's primary method for expelling waste gases?;Exhalation
+What is the body's primary source of energy during prolonged exercise?;Stored fat
+What's the primary role of the biceps muscle?;Flexing the arm
+What is the body's primary blood type classification system?;ABO blood group system
+What's the primary function of the cerebellum in the brain?;Coordination and balance
+What's the body's primary source of vitamins and minerals?;Diet
+What is the primary function of the prostate gland in men?;Produce seminal fluid
+What's the body's primary hormone for regulating sleep-wake cycles?;Melatonin
+What is the body's primary function of the appendix?;Part of the immune system
+What is the body's primary site for red blood cell production?;Bone marrow
+What is the primary function of the pancreas in the digestive system?;Produce digestive enzymes and insulin
+What is the primary function of the gallbladder?;Store and concentrate bile
+What's the body's primary vein for carrying deoxygenated blood to the heart?;Superior vena cava
+What is the primary function of the placenta in pregnancy?;Exchange of nutrients and waste between mother and fetus
+What's the body's primary neurotransmitter responsible for muscle contraction?;Acetylcholine
+What's the body's primary sugar used for energy?;Glucose
+What is the primary function of the epiglottis?;Prevent food from entering the windpipe
+What's the body's primary brain chemical responsible for mood regulation?;Serotonin
+What's the primary site for urine storage in the body?;Bladder
+What is the body's primary function of the appendix?;Unknown, but may help with immune function
+What's the body's primary storage site for excess glucose?;Liver
+Which hormone is produced by the adrenal glands in response to stress?;Cortisol
+What's the primary function of the eardrum (tympanic membrane)?;Transmit sound vibrations to the middle ear
+What's the body's primary mineral for muscle contraction and nerve function?;Calcium
+What is the body's primary immune defense in the blood?;White blood cells
+What is the body's primary location for converting waste products into urine?;Kidneys
+What's the body's primary method for expelling waste gases?;Exhalation
+What is the body's primary source of energy during prolonged exercise?;Stored fat
+What's the primary role of the biceps muscle?;Flexing the arm
+What is the body's primary blood type classification system?;ABO blood group system
+What's the primary function of the cerebellum in the brain?;Coordination and balance
+What's the body's primary source of vitamins and minerals?;Diet
+What is the primary function of the prostate gland in men?;Produce seminal fluid
+What's the body's primary hormone for regulating sleep-wake cycles?;Melatonin
+What is the body's primary function of the appendix?;Part of the immune system
+What is the body's primary site for red blood cell production?;Bone marrow
+What is the primary function of the pancreas in the digestive system?;Produce digestive enzymes and insulin
+What is the primary function of the gallbladder?;Store and concentrate bile
+What's the body's primary vein for carrying deoxygenated blood to the heart?;Superior vena cava
+What is the primary function of the placenta in pregnancy?;Exchange of nutrients and waste between mother and fetus
+What is the primary function of the pancreas in the digestive system?;Produce digestive enzymes and insulin
+What is the primary function of the gallbladder?;Store and concentrate bile
+What's the body's primary vein for carrying deoxygenated blood to the heart?;Superior vena cava
+What is the primary function of the placenta in pregnancy?;Exchange of nutrients and waste between mother and fetus
+What is the body's main pumping organ?;Heart
+Which gas do we inhale when we breathe in?;Oxygen
+What is the body's primary waste removal system?;Urinary system
+What's the body's largest internal organ?;Liver
+What is the primary tissue for energy storage in the body?;Adipose tissue
+What is the primary function of the trachea?;Airway for breathing
+What is the body's main type of muscle for voluntary movement?;Skeletal muscle
+What is the function of the pituitary gland?;Master gland, controls other endocrine glands
+What is the primary function of the cornea in the eye?;Clear front surface, helps focus light
+What is the body's primary sensory organ for hearing?;Ear
+What is the purpose of the spinal cord in the nervous system?;Transmit signals between brain and body
+What is the body's primary storage site for blood?;Spleen
+What's the primary function of the ribcage?;Protect the chest and support breathing
+What is the body's primary gland for adrenaline production?;Adrenal gland
+What's the primary sensory organ for taste?;Tongue
+What is the body's primary organ for digestion and absorption of nutrients?;Small intestine
+What is the purpose of the pericardium around the heart?;Protect and lubricate the heart
+What is the primary function of the bronchioles in the respiratory system?;Air passage to the lungs
+What is the body's primary sensory organ for smell?;Nose
+What is the role of the rectum in the digestive system?;Store and eliminate waste
+What is the body's primary bone for skull protection?;Cranium
+What is the primary function of the duodenum in the digestive system?;Initial digestion and nutrient absorption
+What is the purpose of the coccyx (tailbone) in the skeletal system?;Attachment for muscles and ligaments
+What is the body's primary digestive organ for enzyme production?;Pancreas
+What's the function of the aorta in the cardiovascular system?;Carry oxygenated blood from the heart
+What is the primary function of the diaphragm in the respiratory system?;Breathing muscle
+What is the purpose of the pulmonary veins in the cardiovascular system?;Carry oxygenated blood to the heart
+What is the body's primary function of the mucus in the respiratory system?;Moisten and protect the airways
+What is the function of the nephrons in the urinary system?;Filter and clean the blood
+What is the primary storage site for bile in the body?;Gallbladder
+What's the body's primary function of the esophagus?;Transport food to the stomach
+What is the role of the parathyroid glands in the endocrine system?;Regulate calcium levels
+What is the primary function of the semicircular canals in the ear?;Balance and spatial orientation
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What is the primary function of the gallbladder?;Store and release bile
+What is the role of the rectum in the digestive system?;Store and eliminate waste
+What is the body's primary bone for skull protection?;Cranium
+What is the primary function of the duodenum in the digestive system?;Initial digestion and nutrient absorption
+What is the purpose of the coccyx (tailbone) in the skeletal system?;Attachment for muscles and ligaments
+What is the body's primary digestive organ for enzyme production?;Pancreas
+What's the function of the aorta in the cardiovascular system?;Carry oxygenated blood from the heart
+What is the primary function of the diaphragm in the respiratory system?;Breathing muscle
+What is the purpose of the pulmonary veins in the cardiovascular system?;Carry oxygenated blood to the heart
+What is the body's primary function of the mucus in the respiratory system?;Moisten and protect the airways
+What is the function of the nephrons in the urinary system?;Filter and clean the blood
+What is the primary storage site for bile in the body?;Gallbladder
+What's the body's primary function of the esophagus?;Transport food to the stomach
+What is the role of the parathyroid glands in the endocrine system?;Regulate calcium levels
+What is the primary function of the semicircular canals in the ear?;Balance and spatial orientation
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What is the primary function of the gallbladder?;Store and release bile
+What is the role of the rectum in the digestive system?;Store and eliminate waste
+What is the body's primary bone for skull protection?;Cranium
+What is the primary function of the duodenum in the digestive system?;Initial digestion and nutrient absorption
+What is the purpose of the coccyx (tailbone) in the skeletal system?;Attachment for muscles and ligaments
+What is the body's primary digestive organ for enzyme production?;Pancreas
+What's the function of the aorta in the cardiovascular system?;Carry oxygenated blood from the heart
+What is the primary function of the diaphragm in the respiratory system?;Breathing muscle
+What is the purpose of the pulmonary veins in the cardiovascular system?;Carry oxygenated blood to the heart
+What is the body's primary function of the mucus in the respiratory system?;Moisten and protect the airways
+What is the function of the nephrons in the urinary system?;Filter and clean the blood
+What is the primary storage site for bile in the body?;Gallbladder
+What's the body's primary function of the esophagus?;Transport food to the stomach
+What is the role of the parathyroid glands in the endocrine system?;Regulate calcium levels
+What is the primary function of the semicircular canals in the ear?;Balance and spatial orientation
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What is the primary function of the gallbladder?;Store and release bile
+What is the role of the rectum in the digestive system?;Store and eliminate waste
+What is the body's primary bone for skull protection?;Cranium
+What is the primary function of the duodenum in the digestive system?;Initial digestion and nutrient absorption
+What is the purpose of the coccyx (tailbone) in the skeletal system?;Attachment for muscles and ligaments
+What is the body's primary digestive organ for enzyme production?;Pancreas
+What's the function of the aorta in the cardiovascular system?;Carry oxygenated blood from the heart
+What is the primary function of the diaphragm in the respiratory system?;Breathing muscle
+What is the purpose of the pulmonary veins in the cardiovascular system?;Carry oxygenated blood to the heart
+What is the body's primary function of the mucus in the respiratory system?;Moisten and protect the airways
+What is the function of the nephrons in the urinary system?;Filter and clean the blood
+What is the primary storage site for bile in the body?;Gallbladder
+What's the body's primary function of the esophagus?;Transport food to the stomach
+What is the role of the parathyroid glands in the endocrine system?;Regulate calcium levels
+What is the primary function of the semicircular canals in the ear?;Balance and spatial orientation
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What is the body's main pumping organ?;Heart
+Which gas do we inhale when we breathe in?;Oxygen
+What is the body's primary waste removal system?;Urinary system
+What's the body's largest internal organ?;Liver
+What is the primary tissue for energy storage in the body?;Adipose tissue
+What is the primary function of the trachea?;Airway for breathing
+What is the body's main type of muscle for voluntary movement?;Skeletal muscle
+What is the function of the pituitary gland?;Master gland, controls other endocrine glands
+What is the primary function of the cornea in the eye?;Clear front surface, helps focus light
+What is the body's primary sensory organ for hearing?;Ear
+What is the purpose of the spinal cord in the nervous system?;Transmit signals between brain and body
+What is the body's primary storage site for blood?;Spleen
+What's the primary function of the ribcage?;Protect the chest and support breathing
+What is the body's primary gland for adrenaline production?;Adrenal gland
+What's the primary sensory organ for taste?;Tongue
+What is the body's primary organ for digestion and absorption of nutrients?;Small intestine
+What is the purpose of the pericardium around the heart?;Protect and lubricate the heart
+What is the primary function of the bronchioles in the respiratory system?;Air passage to the lungs
+What is the body's primary sensory organ for smell?;Nose
+What is the role of the rectum in the digestive system?;Store and eliminate waste
+What is the body's primary bone for skull protection?;Cranium
+What is the primary function of the duodenum in the digestive system?;Initial digestion and nutrient absorption
+What is the purpose of the coccyx (tailbone) in the skeletal system?;Attachment for muscles and ligaments
+What is the body's primary digestive organ for enzyme production?;Pancreas
+What's the function of the aorta in the cardiovascular system?;Carry oxygenated blood from the heart
+What is the primary function of the diaphragm in the respiratory system?;Breathing muscle
+What is the purpose of the pulmonary veins in the cardiovascular system?;Carry oxygenated blood to the heart
+What is the body's primary function of the mucus in the respiratory system?;Moisten and protect the airways
+What is the function of the nephrons in the urinary system?;Filter and clean the blood
+What is the primary storage site for bile in the body?;Gallbladder
+What's the body's primary function of the esophagus?;Transport food to the stomach
+What is the role of the parathyroid glands in the endocrine system?;Regulate calcium levels
+What is the primary function of the semicircular canals in the ear?;Balance and spatial orientation
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What is the primary function of the gallbladder?;Store and release bile
+What is the role of the rectum in the digestive system?;Store and eliminate waste
+What is the body's primary bone for skull protection?;Cranium
+What is the primary function of the duodenum in the digestive system?;Initial digestion and nutrient absorption
+What is the purpose of the coccyx (tailbone) in the skeletal system?;Attachment for muscles and ligaments
+What is the body's primary digestive organ for enzyme production?;Pancreas
+What's the function of the aorta in the cardiovascular system?;Carry oxygenated blood from the heart
+What is the primary function of the diaphragm in the respiratory system?;Breathing muscle
+What is the purpose of the pulmonary veins in the cardiovascular system?;Carry oxygenated blood to the heart
+What is the body's primary function of the mucus in the respiratory system?;Moisten and protect the airways
+What is the function of the nephrons in the urinary system?;Filter and clean the blood
+What is the primary storage site for bile in the body?;Gallbladder
+What's the body's primary function of the esophagus?;Transport food to the stomach
+What is the role of the parathyroid glands in the endocrine system?;Regulate calcium levels
+What is the primary function of the semicircular canals in the ear?;Balance and spatial orientation
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What is the primary function of the gallbladder?;Store and release bile
+What is the role of the rectum in the digestive system?;Store and eliminate waste
+What is the body's primary bone for skull protection?;Cranium
+What is the primary function of the duodenum in the digestive system?;Initial digestion and nutrient absorption
+What is the purpose of the coccyx (tailbone) in the skeletal system?;Attachment for muscles and ligaments
+What is the body's primary digestive organ for enzyme production?;Pancreas
+What's the function of the aorta in the cardiovascular system?;Carry oxygenated blood from the heart
+What is the primary function of the diaphragm in the respiratory system?;Breathing muscle
+What is the purpose of the pulmonary veins in the cardiovascular system?;Carry oxygenated blood to the heart
+What is the body's primary function of the mucus in the respiratory system?;Moisten and protect the airways
+What is the function of the nephrons in the urinary system?;Filter and clean the blood
+What is the primary storage site for bile in the body?;Gallbladder
+What's the body's primary function of the esophagus?;Transport food to the stomach
+What is the role of the parathyroid glands in the endocrine system?;Regulate calcium levels
+What is the primary function of the semicircular canals in the ear?;Balance and spatial orientation
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra
+What is the primary function of the gallbladder?;Store and release bile
+What is the role of the rectum in the digestive system?;Store and eliminate waste
+What is the body's primary bone for skull protection?;Cranium
+What is the primary function of the duodenum in the digestive system?;Initial digestion and nutrient absorption
+What is the purpose of the coccyx (tailbone) in the skeletal system?;Attachment for muscles and ligaments
+What is the body's primary digestive organ for enzyme production?;Pancreas
+What's the function of the aorta in the cardiovascular system?;Carry oxygenated blood from the heart
+What is the primary function of the diaphragm in the respiratory system?;Breathing muscle
+What is the purpose of the pulmonary veins in the cardiovascular system?;Carry oxygenated blood to the heart
+What is the body's primary function of the mucus in the respiratory system?;Moisten and protect the airways
+What is the function of the nephrons in the urinary system?;Filter and clean the blood
+What is the primary storage site for bile in the body?;Gallbladder
+What's the body's primary function of the esophagus?;Transport food to the stomach
+What is the role of the parathyroid glands in the endocrine system?;Regulate calcium levels
+What is the primary function of the semicircular canals in the ear?;Balance and spatial orientation
+What's the body's primary muscle for pumping blood?;Heart
+What is the primary function of the pericardium around the heart?;Protect the heart and reduce friction
+What is the purpose of the vas deferens in the male reproductive system?;Carry sperm from testes to urethra
+What's the function of the amniotic sac in pregnancy?;Protect and cushion the fetus
+What is the primary storage site for sperm in the male reproductive system?;Epididymis
+What is the body's primary location for regulating body temperature?;Hypothalamus
+What's the primary function of the thyroid gland?;Regulate metabolism and energy
+What is the purpose of the eustachian tube in the ear?;Equalize pressure in the middle ear
+What is the body's primary lymphatic organ for immune function?;Thymus
+What is the primary function of the vas deferens in the male reproductive system?;Carry sperm from the epididymis to the urethra

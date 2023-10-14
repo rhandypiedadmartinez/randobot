@@ -26,7 +26,11 @@ def get_most_similar_response(df, query, top_k=1):
 
 st.title("RandoBot")
 
-df = pd.read_csv('https://raw.githubusercontent.com/rhandypiedadmartinez/randobot/main/app/df.csv', delimiter=";")
+import os
+current_directory = os.getcwd()
+
+df = pd.read_csv(f"{current_directory}/app/df.csv", delimiter=";")
+df = df.drop_duplicates(subset='response')
 
 # Initialize chat history
 if "messages" not in st.session_state:
@@ -38,16 +42,17 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # React to user input
-if prompt := st.chat_input("Ask about Philippine History, Programming, and Science, or type 'trivia'"):
+if prompt := st.chat_input("Ask about the Human Body, or type 'trivia'"):
     # Display user message in chat message container
     st.chat_message("user").markdown(f"You: {prompt}")
 
     # Add user message to chat history
     st.session_state.messages.append({"role": "user", "content": f"You: {prompt}"})
 
+    responses = ""
     if prompt == "trivia":
-        index = responses 
-        responses = df[""]
+        trivia = df.iloc[random.randint(0,103)] 
+        responses = ["TRIVIA: " + trivia["user_chat"] + " " + trivia["response"]]
     else:
         responses = get_most_similar_response(df, prompt)
 
@@ -58,4 +63,4 @@ if prompt := st.chat_input("Ask about Philippine History, Programming, and Scien
 
     # Add assistant response to chat history
     for response in responses:
-        st.session_state.messages.append({"role": "assistant", "content": f"Echo: {response}"})
+        st.session_state.messages.append({"role": "assistant", "content": f"Rando: {response}"})
