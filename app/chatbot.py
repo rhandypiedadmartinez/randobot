@@ -22,7 +22,15 @@ def get_most_similar_response(df, query, top_k=1):
     
     # Fetch the corresponding responses from the DataFrame
     most_similar_responses = df.iloc[sorted_indexes]['response'].values
-    return most_similar_responses
+
+    highest_score = similarity_scores[0][sorted_indexes[0]]
+    print(highest_score)
+    if highest_score<=0.3:
+        sorry_response = ["I'm sorry, I don't have the answer to that trivia question.","Hmm, I'm not sure about that one.","I don't have that trivia in my database."]
+        return [sorry_response[random.randint(0,2)]]
+    elif highest_score<=0.7:
+        return ["I guess it's "] + most_similar_responses    
+    return ["Surely, "] + most_similar_responses
 
 st.title("RandoBot")
 
