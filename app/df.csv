@@ -1,301 +1,301 @@
-user_chat,response,category,similarity_score
-What is Python's main use?,Scripting,2,0.0
-What does HTML stand for?,Markup,2,0.0
-What does CSS stand for?,Styling,2,0.0
-What is the primary use of JavaScript?,Interactivity,2,0.0
-What is a variable in programming?,Identifier,2,0.0
-What is a loop that runs indefinitely?,Infinite,2,0.0
-What is the process of finding and fixing bugs?,Debugging,2,0.0
-What is a data structure that stores elements in a specific order?,Array,2,0.0
-What is a collection of key-value pairs?,Dictionary,2,0.0
-What is the term for reusing code?,Reuse,2,0.0
-"What does ""IDE"" stand for?",Development,2,0.0
-What is the process of converting high-level code to machine code?,Compilation,2,0.0
-What is a program that performs a specific task on a computer?,Software,2,0.0
-What is a tool for version control?,Git,2,0.0
-What is a software testing technique?,Testing,2,0.0
-What is a group of related code?,Module,2,0.0
-What is a condition that occurs when code runs indefinitely?,Infinite,2,0.0
-What is a programming paradigm that uses objects?,Object-oriented,2,0.0
-What is the practice of writing code with human readability?,Readable,2,0.0
-What is a program that automates tasks?,Script,2,0.0
-What is a tool for building user interfaces?,Framework,2,0.0
-What is the process of finding and exploiting vulnerabilities?,Hacking,2,0.0
-What is a unit of code testing?,Test,2,0.0
-What is a set of rules for writing code?,Style,2,0.0
-What is a function that calls itself?,Recursion,2,0.0
-What is a set of code instructions?,Algorithm,2,0.0
-What is a data type for true/false values?,Boolean,2,0.0
-What is a program for creating databases?,Database,2,0.0
-What is a tool for managing packages in Python?,Pip,2,0.0
-What is a program for designing web pages?,Editor,2,0.0
-What is a programming language for statistical analysis?,R,2,0.0
-What is a data type for whole numbers?,Integer,2,0.0
-What is a tool for automating repetitive tasks in Windows?,AutoIt,2,0.0
-What is a tool for analyzing and visualizing data?,Matplotlib,2,0.0
-What is a tool for writing and running SQL queries?,SQL,2,0.0
-What is a tool for testing web applications?,Selenium,2,0.0
-What is a tool for creating diagrams and flowcharts?,Draw,2,0.0
-What is a tool for managing databases?,SQL Server,2,0.0
-What is a tool for creating mobile apps?,React Native,2,0.0
-What is a tool for analyzing code quality?,Lint,2,0.0
-What is a tool for documenting code?,Docstring,2,0.0
-What is a tool for building RESTful APIs?,Flask,2,0.0
-What is a tool for creating and managing virtual environments?,Venv,2,0.0
-What is a tool for version control and collaboration?,GitHub,2,0.0
-What is a tool for building web applications?,Django,2,0.0
-What is a tool for data analysis and manipulation in Python?,Pandas,2,0.0
-What is a tool for creating interactive web applications?,Vue,2,0.0
-What is a tool for building user interfaces in JavaScript?,React,2,0.0
-What is a tool for managing packages in JavaScript?,npm,2,0.0
-What is a tool for testing JavaScript code?,Jest,2,0.0
-What is a tool for building cross-platform desktop apps?,Electron,2,0.0
-What is a tool for building mobile apps for iOS and Android?,Flutter,2,0.0
-What is a tool for building data visualizations?,D3,2,0.0
-What is a tool for creating and managing databases in JavaScript?,MongoDB,2,0.0
-What is a tool for creating and managing databases in Python?,SQLite,2,0.0
-What is a tool for building machine learning models?,TensorFlow,2,0.0
-What is a tool for building neural networks?,PyTorch,2,0.0
-What is a tool for data analysis and visualization in R?,ggplot,2,0.0
-What is a tool for statistical analysis and data visualization in Python?,Seaborn,2,0.0
-What is a tool for building interactive web applications in Python?,Dash,2,0.0
-What is a tool for automating tasks in Python?,Selenium,2,0.0
-What is a tool for scraping data from websites in Python?,BeautifulSoup,2,0.0
-What is a tool for creating charts and graphs in Python?,Matplotlib,2,0.0
-What is a tool for creating and managing virtual environments in Python?,virtualenv,2,0.0
-What is a tool for building web applications with Ruby?,Ruby on Rails,2,0.0
-What is a tool for building web applications with JavaScript?,Node.js,2,0.0
-What is a tool for managing databases in Ruby?,Active Record,2,0.0
-What is a tool for testing Ruby code?,RSpec,2,0.0
-What is a tool for building APIs in Ruby?,Grape,2,0.0
-What is a tool for building web applications with PHP?,Laravel,2,0.0
-What is a tool for managing databases in PHP?,Doctrine,2,0.0
-What is a tool for testing PHP code?,PHPUnit,2,0.0
-What is a tool for building web applications with Java?,Spring Boot,2,0.0
-What is a tool for managing databases in Java?,Hibernate,2,0.0
-What is a tool for testing Java code?,JUnit,2,0.0
-What is a tool for building web applications with C#?,ASP.NET,2,0.0
-What is a tool for managing databases in C#?,Entity Framework,2,0.0
-What is a tool for testing C# code?,NUnit,2,0.0
-What is a tool for building web applications with Go?,Gin,2,0.0
-What is a tool for managing databases in Go?,GORM,2,0.0
-What is a tool for testing Go code?,Testing,2,0.0
-What is a tool for building web applications with Ruby?,Ruby on Rails,2,0.0
-What is a tool for managing databases in Ruby?,Active Record,2,0.0
-What is a tool for testing Ruby code?,RSpec,2,0.0
-What is a tool for building APIs in Ruby?,Grape,2,0.0
-What is a tool for building web applications with PHP?,Laravel,2,0.0
-What is a tool for managing databases in PHP?,Doctrine,2,0.0
-What is a tool for testing PHP code?,PHPUnit,2,0.0
-What is a tool for building web applications with Java?,Spring Boot,2,0.0
-What is a tool for managing databases in Java?,Hibernate,2,0.0
-What is a tool for testing Java code?,JUnit,2,0.0
-What is a tool for building web applications with C#?,ASP.NET,2,0.0
-What is a tool for managing databases in C#?,Entity Framework,2,0.0
-What is a tool for testing C# code?,NUnit,2,0.0
-What is a tool for building web applications with Go?,Gin,2,0.0
-What is a tool for managing databases in Go?,GORM,2,0.0
-What is a tool for testing Go code?,Testing,2,0.0
-What is a tool for building web applications with Ruby?,Ruby on Rails,2,0.0
-What is a tool for managing databases in Ruby?,Active Record,2,0.0
-What is a tool for testing Ruby code?,RSpec,2,0.0
-What is the chemical symbol for water?,H2O,0,0.0
-What gas do plants absorb from the atmosphere?,Carbon dioxide,0,0.0
-What is the smallest unit of matter?,Atom,0,0.0
-What is the study of the Earth's atmosphere called?,Meteorology,0,0.0
-What is the chemical symbol for oxygen?,O2,0,0.0
-What is the process by which plants make their own food?,Photosynthesis,0,0.0
-What is the force that pulls objects towards the center of the Earth?,Gravity,0,0.0
-What is the closest star to Earth?,Sun,0,0.0
-What gas do humans breathe out when they exhale?,Carbon dioxide,0,0.0
-What is the study of living organism|s called?,Biology,0,0.0
-What is the process of a liquid turning into a gas at the surface called?,Evaporation,0,0.0
-What is the chemical symbol for gold?,Au,0,0.0
-What is the force that opposes motion between two surfaces in contact?,Friction,0,0.0
-What is the study of heredity and genetic variation called?,Genetics,0,0.0
-What is the process by which rocks are broken down into smaller pieces called?,Weathering,0,0.0
-What is the chemical symbol for iron?,Fe,0,0.0
-What gas do humans breathe in?,Oxygen,0,0.0
-What is the study of the Earth's past based on fossils called?,Paleontology,0,0.0
-What is the process by which plants lose water through their leaves?,Transpiration,0,0.0
-What is the force that pushes objects away from each other?,Repulsion,0,0.0
-What is the study of the stars and celestial objects called?,Astronomy,0,0.0
-What is the chemical symbol for carbon?,C,0,0.0
-What is the force that causes an object to float in water?,Buoyancy,0,0.0
-What gas is responsible for the ozone layer in the Earth's atmosphere?,Ozone,0,0.0
-What is the study of the Earth's structure and composition called?,Geology,0,0.0
-What is the chemical symbol for nitrogen?,N,0,0.0
-What is the force that holds the nucleus of an atom together?,Strong force,0,0.0
-What gas do we breathe out when we exhale?,Oxygen,0,0.0
-What is the study of matter and its properties called?,Chemistry,0,0.0
-What is the process by which rocks are formed from pre-existing rocks called?,Rock cycle,0,0.0
-What is the chemical symbol for helium?,He,0,0.0
-What is the force that causes objects to fall to the ground when dropped?,Gravity,0,0.0
-What gas is produced by burning fossil fuels?,Carbon dioxide,0,0.0
-What is the study of the behavior of matter at very low temperatures called?,Cryogenics,0,0.0
-What is the chemical symbol for silver?,Ag,0,0.0
-What is the force that keeps planets in orbit around the sun?,Gravitational force,0,0.0
-What gas do plants release during photosynthesis?,Oxygen,0,0.0
-What is the study of the properties and behavior of light called?,Optics,0,0.0
-What is the chemical symbol for copper?,Cu,0,0.0
-What is the force that causes objects to move in a circular path?,Centripetal force,0,0.0
-What gas is responsible for the greenhouse effect on Earth?,Carbon dioxide,0,0.0
-What is the study of the Earth's magnetic field called?,Geomagnetism,0,0.0
-What is the chemical symbol for potassium?,K,0,0.0
-What is the force that causes objects to float in the air?,Lift,0,0.0
-What gas is the most abundant in the Earth's atmosphere?,Nitrogen,0,0.0
-What is the study of the human mind and behavior called?,Psychology,0,0.0
-What is the chemical symbol for sodium?,Na,0,0.0
-What is the force that allows objects to bounce back when they hit a surface?,Elastic force,0,0.0
-What gas do animals inhale for respiration?,Oxygen,0,0.0
-What is the study of the Earth's landforms called?,Geomorphology,0,0.0
-What is the chemical symbol for hydrogen?,H,0,0.0
-What is the force that opposes the motion of an object through a fluid?,Drag,0,0.0
-What gas is used in balloons to make them float?,Helium,0,0.0
-What is the study of the Earth's climate called?,Climatology,0,0.0
-What is the chemical symbol for calcium?,Ca,0,0.0
-What is the force that causes objects to sink in water?,Buoyancy,0,0.0
-What gas is produced during cellular respiration?,Carbon dioxide,0,0.0
-What is the study of the Earth's tectonic plates called?,Plate tectonics,0,0.0
-What is the chemical symbol for phosphorus?,P,0,0.0
-What is the force that causes a compass needle to point north?,Magnetic force,0,0.0
-What gas is used in welding to shield the weld from oxygen?,Argon,0,0.0
-What is the study of the Earth's weather patterns called?,Meteorology,0,0.0
-What is the chemical symbol for sulfur?,S,0,0.0
-What is the force that causes an object to accelerate when a force is applied to it?,Acceleration,0,0.0
-What gas is used in the production of fizzy drinks?,Carbon dioxide,0,0.0
-What is the study of the Earth's rivers and lakes called?,Limnology,0,0.0
-What is the chemical symbol for chlorine?,Cl,0,0.0
-What is the force that causes an object to resist changes in motion?,Inertia,0,0.0
-What gas is used in neon signs to produce light?,Neon,0,0.0
-What is the study of the Earth's glaciers called?,Glaciology,0,0.0
-What is the chemical symbol for magnesium?,Mg,0,0.0
-What is the force that causes objects to attract each other due to their mass?,Gravity,0,0.0
-What gas is used in the atmosphere to transmit radio waves?,Oxygen,0,0.0
-What is the study of the Earth's geological history called?,Stratigraphy,0,0.0
-What is the chemical symbol for titanium?,Ti,0,0.0
-What is the force that causes an object to sink in a fluid?,Density,0,0.0
-What gas is used in car airbags to inflate them rapidly during a collision?,Nitrogen,0,0.0
-What is the study of the Earth's ecosystems called?,Ecology,0,0.0
-What is the chemical symbol for neon?,Ne,0,0.0
-What is the force that causes an object to change its direction of motion?,Centrifugal force,0,0.0
-What gas is used in scuba tanks for underwater breathing?,Oxygen,0,0.0
-What is the study of the Earth's soils called?,Pedology,0,0.0
-What is the chemical symbol for argon?,Ar,0,0.0
-What is the force that opposes the relative motion of two surfaces in contact?,Friction,0,0.0
-What gas is responsible for the colors in fireworks?,Metal salts,0,0.0
-What is the study of the Earth's volcanoes called?,Volcanology,0,0.0
-What is the chemical symbol for mercury?,Hg,0,0.0
-What is the force that causes an object to float in a liquid?,Buoyancy,0,0.0
-What gas is used in electric lights to produce a bright white light?,Xenon,0,0.0
-What is the study of the Earth's earthquakes called?,Seismology,0,0.0
-What is the chemical symbol for lead?,Pb,0,0.0
-What is the force that causes an object to move when a force is applied to it?,Resultant force,0,0.0
-What gas is responsible for the auroras (northern and southern lights) in the Earth's atmosphere?,Solar wind,0,0.0
-What is the study of the Earth's outer space environment called?,Space physics,0,0.0
-What is the chemical symbol for uranium?,U,0,0.0
-What is the force that causes an object to rise when it is less dense than the fluid it displaces?,Archimedes' principle,0,0.0
-What gas is responsible for the fizz in carbonated beverages?,Carbon dioxide,0,0.0
-What is the study of the Earth's moon called?,Selenology,0,0.0
-What is the chemical symbol for beryllium?,Be,0,0.0
-What is the force that causes objects to move toward each other due to their gravitational attraction?,Attraction,0,0.0
-Who is the national hero of the Philippines?,Rizal,1,0.0
-"Which Filipino revolutionary leader is known as the ""Supreme Leader""?",Apolinario,1,0.0
-What is the name of the Philippine national anthem?,Lupang Hinirang,1,0.0
-Which Philippine president declared martial law in 1972?,Marcos,1,0.0
-Who was the first President of the Philippines?,Aguinaldo,1,0.0
-What is the name of the famous ship that brought General MacArthur back to the Philippines during World War II?,Nashville,1,0.0
-Which Philippine province was the site of the 1896 Cry of Pugad Lawin?,Manila,1,0.0
-What is the name of the Philippine currency?,Peso,1,0.0
-Who is the first woman President of the Philippines?,Aquino,1,0.0
-What is the name of the treaty that ended the Spanish-American War and ceded the Philippines to the United States?,Treaty of Paris,1,0.0
-"Who is known as the ""Father of the Philippine Revolution""?",Bonifacio,1,0.0
-What is the name of the first Filipino to circumnavigate the globe?,Legaspi,1,0.0
-"Which Philippine hero is known as the ""Great Dissenter""?",Recto,1,0.7085708842149763
-Who was the last Spanish Governor-General of the Philippines?,Polavieja,1,0.0
-What is the name of the Filipino revolutionary society founded by Andres Bonifacio?,Katipunan,1,0.0
-"Which famous Filipino boxer is known as ""Pacman""?",Pacquiao,1,0.0
-Who is the first Filipino cardinal of the Roman Catholic Church?,Santos,1,0.0
-"Which Filipino actor played the role of Jose Rizal in the biographical film ""Jose Rizal""?",Cesar,1,0.0
-What is the name of the blood compact between Sikatuna and Legazpi?,Sandugo,1,0.0
-Who was the leader of the Sakdalista movement in the 1930s?,Caballero,1,0.0
-What is the name of the historic cave in Palawan known for its ancient burial sites?,Tabon,1,0.0
-Who was the first Filipino astronaut in space?,Onizuka,1,0.0
-What is the name of the political party founded by Ferdinand Marcos?,Kilusang Bagong Lipunan,1,0.0
-Who is the first Filipino to win the Nobel Prize?,Laurel,1,0.0
-What is the name of the infamous prison during the Spanish colonial period in Manila?,Bilibid,1,0.0
-Which Philippine president served the longest in office?,Quezon,1,0.0
-"Who was the leader of the Huks, a communist rebel group in the Philippines?",Lava,1,0.0
-What is the name of the ship that carried the first group of Filipinos to the United States in 1907?,Natividad,1,0.0
-Who is the first Filipino to win an Olympic gold medal?,Dy,1,0.0
-What is the name of the Philippine flag?,Pambansang Watawat,1,0.0
-"Which Philippine province is known as the ""Land of the Rising Sun""?",Aurora,1,0.0
-Who is the first Filipino-American to be elected to the U.S. Congress?,Eni,1,0.0
-"What is the name of the Filipino boxer known as ""The Flash""?",Donaire,1,0.0
-"Who was the leader of the ""Lapu-Lapu Group,"" a communist organization in the Philippines during the 1980s?",Kumander Dante,1,0.0
-"What is the name of the famous Filipino boxer who competed in eight different weight divisions and was known as ""The Golden Boy""?",Pacquiao,1,0.0
-"Who was the leader of the ""Balikatan sa Kaunlaran,"" a guerrilla organization during World War II?",Yamashita,1,0.0
-What is the name of the Filipino national hero who was exiled to Dapitan by the Spanish authorities?,Rizal,1,0.0
-"Which Philippine president is known as the ""Man of the Masses""?",Estrada,1,0.0
-"What is the name of the Philippine national hero who is also known as ""Kabayani""?",Bonifacio,1,0.0
-Who was the first Filipino saint canonized by the Roman Catholic Church?,Lorenzo,1,0.0
-What is the name of the famous underground river in Palawan?,Puerto Princesa,1,0.0
-"Which Philippine province is known as the ""Queen City of the South""?",Cebu,1,0.0
-Who is the first Filipino to reach the summit of Mount Everest?,Lagmay,1,0.0
-What is the name of the Filipino revolutionary leader who was executed by the Americans in 1901?,Luna,1,0.0
-"Which Philippine president declared a policy of ""Filipino First""?",Garcia,1,0.0
-"Who was the leader of the ""Hukbong Mapagpalaya ng Bayan"" during the Japanese occupation?",Castro,1,0.0
-What is the name of the battle in 1521 where Ferdinand Magellan was killed by Lapu-Lapu?,Mactan,1,0.0
-Who was the first Filipino to win a Grammy Award?,Pecpec,1,0.0
-What is the name of the famous chocolate hills in Bohol?,Chocolate,1,0.0
-"Which Philippine president is known as the ""President of the Poor""?",Aquino,1,0.0
-Who is the first Filipino to win an Olympic silver medal?,Tapales,1,0.0
-"What is the name of the Philippine national hero who is also known as ""Kalayaan""?",Bonifacio,1,0.0
-Who was the leader of the Philippine guerrilla forces during World War II?,Guerrero,1,0.0
-What is the name of the treaty that recognized Philippine independence from the United States in 1946?,Treaty of Manila,1,0.0
-"Which Philippine province is known as the ""Summer Capital of the Philippines""?",Baguio,1,0.0
-Who is the first Filipino to win the Pulitzer Prize?,Carlos,1,0.0
-"What is the name of the famous underground cemetery in Nagcarlan, Laguna?",Nagcarlan,1,0.0
-"Who was the leader of the ""Bagong Katipunan"" during the 1960s?",Sison,1,0.0
-"What is the name of the famous waterfall in Iligan City known as the ""City of Majestic Waterfalls""?",Maria,1,0.0
-"Which Philippine president is known as the ""President of the Second Philippine Republic""?",Quirino,1,0.0
-Who is the first Filipino-American to serve as the Attorney General of the United States?,Gonzales,1,0.0
-What is the name of the volcanic island in Batangas known for its beautiful lake inside the crater?,Taal,1,0.0
-"Who was the leader of the ""Moro National Liberation Front"" during the 1970s?",Misuari,1,0.0
-What is the name of the famous national park in Davao City known for its durian fruit?,Eden,1,0.0
-"Which Philippine president is known as the ""President of the New Society""?",Marcos,1,0.0
-Who is the first Filipino to win a Tony Award?,Bacani,1,0.0
-What is the name of the historic trail used during World War II by General Douglas MacArthur and his troops?,Bataan,1,0.0
-"Who was the leader of the ""Nagkakaisang Taong Bayan Laban sa Hapon"" during World War II?",Tolentino,1,0.0
-What is the name of the famous underground river in Palawan that is a UNESCO World Heritage Site?,Puerto Princesa,1,0.0
-"Which Philippine province is known as the ""Rice Granary of the Philippines""?",Nueva Ecija,1,0.0
-Who is the first Filipino to win a Grammy Award for Best New Artist?,Pecpec,1,0.0
-What is the name of the volcanic island in Albay known for its perfect cone shape?,Mayon,1,0.0
-"Who was the leader of the ""New People's Army"" during the 1960s?",Sison,1,0.0
-What is the name of the famous island in Palawan known for its clear waters and marine biodiversity?,Palawan,1,0.0
-"Which Philippine president is known as the ""President of the Third Philippine Republic""?",Diosdado,1,0.0
-Who is the first Filipino to win an Olympic bronze medal?,Dy,1,0.0
-What is the name of the famous national park in Zambales known for its white sand beaches?,Anawangin,1,0.0
-"Who was the leader of the ""Moro Islamic Liberation Front"" during the 1990s?",Salamat,1,0.0
-What is the name of the historic cave in Cagayan known for its ancient burial sites?,Callao,1,0.0
-"Which Philippine province is known as the ""Land of Promise""?",Cotabato,1,0.0
-Who is the first Filipino to win the Pulitzer Prize for Fiction?,Carlos,1,0.0
-What is the name of the famous volcano in Camiguin known for its hot and cold springs?,Hibok-Hibok,1,0.0
-"Who was the leader of the ""Communist Party of the Philippines"" during the 1970s?",Sison,1,0.0
-What is the name of the famous mountain in Benguet known for its rice terraces?,Banaue,1,0.0
-"Which Philippine president is known as the ""Father of Land Reform""?",Garcia,1,0.0
-Who is the first Filipino-American to win an Academy Award?,Tolentino,1,0.0
-What is the name of the historic island in Palawan known for its Japanese shipwrecks from World War II?,Coron,1,0.0
-"Who was the leader of the ""Bangsamoro Islamic Freedom Fighters"" during the 2000s?",Esmail,1,0.0
-What is the name of the famous marine sanctuary in Apo Island known for its diverse marine life?,Apo,1,0.0
-"Which Philippine province is known as the ""Land of Gold""?",Benguet,1,0.0
-Who is the first Filipino to win the Nobel Prize for Literature?,Laurel,1,0.0
-What is the name of the famous volcano in Negros Oriental known for its sulfuric crater lake?,Kanlaon,1,0.0
-"Who was the leader of the ""Abu Sayyaf Group"" during the 1990s?",Abdurajak,1,0.0
-What is the name of the historic town in Ilocos Norte known for its preserved Spanish colonial architecture?,Vigan,1,0.0
-"Which Philippine president is known as the ""Champion of Democracy""?",Aquino,1,0.0
-Who is the first Filipino to win an Olympic gold medal in boxing?,Mansueto,1,0.0
-What is the name of the famous marine reserve in Tubbataha Reef known for its coral reefs and marine biodiversity?,Tubbataha,1,0.0
-"Who was the leader of the ""Philippine Nationalist Party"" during the 1930s?",Quezon,1,0.0
-What is the name of the famous river in Bohol known for its boat cruises with lunch on board?,Loboc,1,0.0
-"Which Philippine province is known as the ""Emerald Isle of the Philippines""?",Marinduque,1,0.0
+,user_chat,response,category
+0,What is Python's main use?,Scripting,2
+1,What does HTML stand for?,Markup,2
+2,What does CSS stand for?,Styling,2
+3,What is the primary use of JavaScript?,Interactivity,2
+4,What is a variable in programming?,Identifier,2
+5,What is a loop that runs indefinitely?,Infinite,2
+6,What is the process of finding and fixing bugs?,Debugging,2
+7,What is a data structure that stores elements in a specific order?,Array,2
+8,What is a collection of key-value pairs?,Dictionary,2
+9,What is the term for reusing code?,Reuse,2
+10,"What does ""IDE"" stand for?",Development,2
+11,What is the process of converting high-level code to machine code?,Compilation,2
+12,What is a program that performs a specific task on a computer?,Software,2
+13,What is a tool for version control?,Git,2
+14,What is a software testing technique?,Testing,2
+15,What is a group of related code?,Module,2
+16,What is a condition that occurs when code runs indefinitely?,Infinite,2
+17,What is a programming paradigm that uses objects?,Object-oriented,2
+18,What is the practice of writing code with human readability?,Readable,2
+19,What is a program that automates tasks?,Script,2
+20,What is a tool for building user interfaces?,Framework,2
+21,What is the process of finding and exploiting vulnerabilities?,Hacking,2
+22,What is a unit of code testing?,Test,2
+23,What is a set of rules for writing code?,Style,2
+24,What is a function that calls itself?,Recursion,2
+25,What is a set of code instructions?,Algorithm,2
+26,What is a data type for true/false values?,Boolean,2
+27,What is a program for creating databases?,Database,2
+28,What is a tool for managing packages in Python?,Pip,2
+29,What is a program for designing web pages?,Editor,2
+30,What is a programming language for statistical analysis?,R,2
+31,What is a data type for whole numbers?,Integer,2
+32,What is a tool for automating repetitive tasks in Windows?,AutoIt,2
+33,What is a tool for analyzing and visualizing data?,Matplotlib,2
+34,What is a tool for writing and running SQL queries?,SQL,2
+35,What is a tool for testing web applications?,Selenium,2
+36,What is a tool for creating diagrams and flowcharts?,Draw,2
+37,What is a tool for managing databases?,SQL Server,2
+38,What is a tool for creating mobile apps?,React Native,2
+39,What is a tool for analyzing code quality?,Lint,2
+40,What is a tool for documenting code?,Docstring,2
+41,What is a tool for building RESTful APIs?,Flask,2
+42,What is a tool for creating and managing virtual environments?,Venv,2
+43,What is a tool for version control and collaboration?,GitHub,2
+44,What is a tool for building web applications?,Django,2
+45,What is a tool for data analysis and manipulation in Python?,Pandas,2
+46,What is a tool for creating interactive web applications?,Vue,2
+47,What is a tool for building user interfaces in JavaScript?,React,2
+48,What is a tool for managing packages in JavaScript?,npm,2
+49,What is a tool for testing JavaScript code?,Jest,2
+50,What is a tool for building cross-platform desktop apps?,Electron,2
+51,What is a tool for building mobile apps for iOS and Android?,Flutter,2
+52,What is a tool for building data visualizations?,D3,2
+53,What is a tool for creating and managing databases in JavaScript?,MongoDB,2
+54,What is a tool for creating and managing databases in Python?,SQLite,2
+55,What is a tool for building machine learning models?,TensorFlow,2
+56,What is a tool for building neural networks?,PyTorch,2
+57,What is a tool for data analysis and visualization in R?,ggplot,2
+58,What is a tool for statistical analysis and data visualization in Python?,Seaborn,2
+59,What is a tool for building interactive web applications in Python?,Dash,2
+60,What is a tool for automating tasks in Python?,Selenium,2
+61,What is a tool for scraping data from websites in Python?,BeautifulSoup,2
+62,What is a tool for creating charts and graphs in Python?,Matplotlib,2
+63,What is a tool for creating and managing virtual environments in Python?,virtualenv,2
+64,What is a tool for building web applications with Ruby?,Ruby on Rails,2
+65,What is a tool for building web applications with JavaScript?,Node.js,2
+66,What is a tool for managing databases in Ruby?,Active Record,2
+67,What is a tool for testing Ruby code?,RSpec,2
+68,What is a tool for building APIs in Ruby?,Grape,2
+69,What is a tool for building web applications with PHP?,Laravel,2
+70,What is a tool for managing databases in PHP?,Doctrine,2
+71,What is a tool for testing PHP code?,PHPUnit,2
+72,What is a tool for building web applications with Java?,Spring Boot,2
+73,What is a tool for managing databases in Java?,Hibernate,2
+74,What is a tool for testing Java code?,JUnit,2
+75,What is a tool for building web applications with C#?,ASP.NET,2
+76,What is a tool for managing databases in C#?,Entity Framework,2
+77,What is a tool for testing C# code?,NUnit,2
+78,What is a tool for building web applications with Go?,Gin,2
+79,What is a tool for managing databases in Go?,GORM,2
+80,What is a tool for testing Go code?,Testing,2
+81,What is a tool for building web applications with Ruby?,Ruby on Rails,2
+82,What is a tool for managing databases in Ruby?,Active Record,2
+83,What is a tool for testing Ruby code?,RSpec,2
+84,What is a tool for building APIs in Ruby?,Grape,2
+85,What is a tool for building web applications with PHP?,Laravel,2
+86,What is a tool for managing databases in PHP?,Doctrine,2
+87,What is a tool for testing PHP code?,PHPUnit,2
+88,What is a tool for building web applications with Java?,Spring Boot,2
+89,What is a tool for managing databases in Java?,Hibernate,2
+90,What is a tool for testing Java code?,JUnit,2
+91,What is a tool for building web applications with C#?,ASP.NET,2
+92,What is a tool for managing databases in C#?,Entity Framework,2
+93,What is a tool for testing C# code?,NUnit,2
+94,What is a tool for building web applications with Go?,Gin,2
+95,What is a tool for managing databases in Go?,GORM,2
+96,What is a tool for testing Go code?,Testing,2
+97,What is a tool for building web applications with Ruby?,Ruby on Rails,2
+98,What is a tool for managing databases in Ruby?,Active Record,2
+99,What is a tool for testing Ruby code?,RSpec,2
+100,What is the chemical symbol for water?,H2O,0
+101,What gas do plants absorb from the atmosphere?,Carbon dioxide,0
+102,What is the smallest unit of matter?,Atom,0
+103,What is the study of the Earth's atmosphere called?,Meteorology,0
+104,What is the chemical symbol for oxygen?,O2,0
+105,What is the process by which plants make their own food?,Photosynthesis,0
+106,What is the force that pulls objects towards the center of the Earth?,Gravity,0
+107,What is the closest star to Earth?,Sun,0
+108,What gas do humans breathe out when they exhale?,Carbon dioxide,0
+109,What is the study of living organism|s called?,Biology,0
+110,What is the process of a liquid turning into a gas at the surface called?,Evaporation,0
+111,What is the chemical symbol for gold?,Au,0
+112,What is the force that opposes motion between two surfaces in contact?,Friction,0
+113,What is the study of heredity and genetic variation called?,Genetics,0
+114,What is the process by which rocks are broken down into smaller pieces called?,Weathering,0
+115,What is the chemical symbol for iron?,Fe,0
+116,What gas do humans breathe in?,Oxygen,0
+117,What is the study of the Earth's past based on fossils called?,Paleontology,0
+118,What is the process by which plants lose water through their leaves?,Transpiration,0
+119,What is the force that pushes objects away from each other?,Repulsion,0
+120,What is the study of the stars and celestial objects called?,Astronomy,0
+121,What is the chemical symbol for carbon?,C,0
+122,What is the force that causes an object to float in water?,Buoyancy,0
+123,What gas is responsible for the ozone layer in the Earth's atmosphere?,Ozone,0
+124,What is the study of the Earth's structure and composition called?,Geology,0
+125,What is the chemical symbol for nitrogen?,N,0
+126,What is the force that holds the nucleus of an atom together?,Strong force,0
+127,What gas do we breathe out when we exhale?,Oxygen,0
+128,What is the study of matter and its properties called?,Chemistry,0
+129,What is the process by which rocks are formed from pre-existing rocks called?,Rock cycle,0
+130,What is the chemical symbol for helium?,He,0
+131,What is the force that causes objects to fall to the ground when dropped?,Gravity,0
+132,What gas is produced by burning fossil fuels?,Carbon dioxide,0
+133,What is the study of the behavior of matter at very low temperatures called?,Cryogenics,0
+134,What is the chemical symbol for silver?,Ag,0
+135,What is the force that keeps planets in orbit around the sun?,Gravitational force,0
+136,What gas do plants release during photosynthesis?,Oxygen,0
+137,What is the study of the properties and behavior of light called?,Optics,0
+138,What is the chemical symbol for copper?,Cu,0
+139,What is the force that causes objects to move in a circular path?,Centripetal force,0
+140,What gas is responsible for the greenhouse effect on Earth?,Carbon dioxide,0
+141,What is the study of the Earth's magnetic field called?,Geomagnetism,0
+142,What is the chemical symbol for potassium?,K,0
+143,What is the force that causes objects to float in the air?,Lift,0
+144,What gas is the most abundant in the Earth's atmosphere?,Nitrogen,0
+145,What is the study of the human mind and behavior called?,Psychology,0
+146,What is the chemical symbol for sodium?,Na,0
+147,What is the force that allows objects to bounce back when they hit a surface?,Elastic force,0
+148,What gas do animals inhale for respiration?,Oxygen,0
+149,What is the study of the Earth's landforms called?,Geomorphology,0
+150,What is the chemical symbol for hydrogen?,H,0
+151,What is the force that opposes the motion of an object through a fluid?,Drag,0
+152,What gas is used in balloons to make them float?,Helium,0
+153,What is the study of the Earth's climate called?,Climatology,0
+154,What is the chemical symbol for calcium?,Ca,0
+155,What is the force that causes objects to sink in water?,Buoyancy,0
+156,What gas is produced during cellular respiration?,Carbon dioxide,0
+157,What is the study of the Earth's tectonic plates called?,Plate tectonics,0
+158,What is the chemical symbol for phosphorus?,P,0
+159,What is the force that causes a compass needle to point north?,Magnetic force,0
+160,What gas is used in welding to shield the weld from oxygen?,Argon,0
+161,What is the study of the Earth's weather patterns called?,Meteorology,0
+162,What is the chemical symbol for sulfur?,S,0
+163,What is the force that causes an object to accelerate when a force is applied to it?,Acceleration,0
+164,What gas is used in the production of fizzy drinks?,Carbon dioxide,0
+165,What is the study of the Earth's rivers and lakes called?,Limnology,0
+166,What is the chemical symbol for chlorine?,Cl,0
+167,What is the force that causes an object to resist changes in motion?,Inertia,0
+168,What gas is used in neon signs to produce light?,Neon,0
+169,What is the study of the Earth's glaciers called?,Glaciology,0
+170,What is the chemical symbol for magnesium?,Mg,0
+171,What is the force that causes objects to attract each other due to their mass?,Gravity,0
+172,What gas is used in the atmosphere to transmit radio waves?,Oxygen,0
+173,What is the study of the Earth's geological history called?,Stratigraphy,0
+174,What is the chemical symbol for titanium?,Ti,0
+175,What is the force that causes an object to sink in a fluid?,Density,0
+176,What gas is used in car airbags to inflate them rapidly during a collision?,Nitrogen,0
+177,What is the study of the Earth's ecosystems called?,Ecology,0
+178,What is the chemical symbol for neon?,Ne,0
+179,What is the force that causes an object to change its direction of motion?,Centrifugal force,0
+180,What gas is used in scuba tanks for underwater breathing?,Oxygen,0
+181,What is the study of the Earth's soils called?,Pedology,0
+182,What is the chemical symbol for argon?,Ar,0
+183,What is the force that opposes the relative motion of two surfaces in contact?,Friction,0
+184,What gas is responsible for the colors in fireworks?,Metal salts,0
+185,What is the study of the Earth's volcanoes called?,Volcanology,0
+186,What is the chemical symbol for mercury?,Hg,0
+187,What is the force that causes an object to float in a liquid?,Buoyancy,0
+188,What gas is used in electric lights to produce a bright white light?,Xenon,0
+189,What is the study of the Earth's earthquakes called?,Seismology,0
+190,What is the chemical symbol for lead?,Pb,0
+191,What is the force that causes an object to move when a force is applied to it?,Resultant force,0
+192,What gas is responsible for the auroras (northern and southern lights) in the Earth's atmosphere?,Solar wind,0
+193,What is the study of the Earth's outer space environment called?,Space physics,0
+194,What is the chemical symbol for uranium?,U,0
+195,What is the force that causes an object to rise when it is less dense than the fluid it displaces?,Archimedes' principle,0
+196,What gas is responsible for the fizz in carbonated beverages?,Carbon dioxide,0
+197,What is the study of the Earth's moon called?,Selenology,0
+198,What is the chemical symbol for beryllium?,Be,0
+199,What is the force that causes objects to move toward each other due to their gravitational attraction?,Attraction,0
+200,Who is the national hero of the Philippines?,Rizal,1
+201,"Which Filipino revolutionary leader is known as the ""Supreme Leader""?",Apolinario,1
+202,What is the name of the Philippine national anthem?,Lupang Hinirang,1
+203,Which Philippine president declared martial law in 1972?,Marcos,1
+204,Who was the first President of the Philippines?,Aguinaldo,1
+205,What is the name of the famous ship that brought General MacArthur back to the Philippines during World War II?,Nashville,1
+206,Which Philippine province was the site of the 1896 Cry of Pugad Lawin?,Manila,1
+207,What is the name of the Philippine currency?,Peso,1
+208,Who is the first woman President of the Philippines?,Aquino,1
+209,What is the name of the treaty that ended the Spanish-American War and ceded the Philippines to the United States?,Treaty of Paris,1
+210,"Who is known as the ""Father of the Philippine Revolution""?",Bonifacio,1
+211,What is the name of the first Filipino to circumnavigate the globe?,Legaspi,1
+212,"Which Philippine hero is known as the ""Great Dissenter""?",Recto,1
+213,Who was the last Spanish Governor-General of the Philippines?,Polavieja,1
+214,What is the name of the Filipino revolutionary society founded by Andres Bonifacio?,Katipunan,1
+215,"Which famous Filipino boxer is known as ""Pacman""?",Pacquiao,1
+216,Who is the first Filipino cardinal of the Roman Catholic Church?,Santos,1
+217,"Which Filipino actor played the role of Jose Rizal in the biographical film ""Jose Rizal""?",Cesar,1
+218,What is the name of the blood compact between Sikatuna and Legazpi?,Sandugo,1
+219,Who was the leader of the Sakdalista movement in the 1930s?,Caballero,1
+220,What is the name of the historic cave in Palawan known for its ancient burial sites?,Tabon,1
+221,Who was the first Filipino astronaut in space?,Onizuka,1
+222,What is the name of the political party founded by Ferdinand Marcos?,Kilusang Bagong Lipunan,1
+223,Who is the first Filipino to win the Nobel Prize?,Laurel,1
+224,What is the name of the infamous prison during the Spanish colonial period in Manila?,Bilibid,1
+225,Which Philippine president served the longest in office?,Quezon,1
+226,"Who was the leader of the Huks, a communist rebel group in the Philippines?",Lava,1
+227,What is the name of the ship that carried the first group of Filipinos to the United States in 1907?,Natividad,1
+228,Who is the first Filipino to win an Olympic gold medal?,Dy,1
+229,What is the name of the Philippine flag?,Pambansang Watawat,1
+230,"Which Philippine province is known as the ""Land of the Rising Sun""?",Aurora,1
+231,Who is the first Filipino-American to be elected to the U.S. Congress?,Eni,1
+232,"What is the name of the Filipino boxer known as ""The Flash""?",Donaire,1
+233,"Who was the leader of the ""Lapu-Lapu Group,"" a communist organization in the Philippines during the 1980s?",Kumander Dante,1
+234,"What is the name of the famous Filipino boxer who competed in eight different weight divisions and was known as ""The Golden Boy""?",Pacquiao,1
+235,"Who was the leader of the ""Balikatan sa Kaunlaran,"" a guerrilla organization during World War II?",Yamashita,1
+236,What is the name of the Filipino national hero who was exiled to Dapitan by the Spanish authorities?,Rizal,1
+237,"Which Philippine president is known as the ""Man of the Masses""?",Estrada,1
+238,"What is the name of the Philippine national hero who is also known as ""Kabayani""?",Bonifacio,1
+239,Who was the first Filipino saint canonized by the Roman Catholic Church?,Lorenzo,1
+240,What is the name of the famous underground river in Palawan?,Puerto Princesa,1
+241,"Which Philippine province is known as the ""Queen City of the South""?",Cebu,1
+242,Who is the first Filipino to reach the summit of Mount Everest?,Lagmay,1
+243,What is the name of the Filipino revolutionary leader who was executed by the Americans in 1901?,Luna,1
+244,"Which Philippine president declared a policy of ""Filipino First""?",Garcia,1
+245,"Who was the leader of the ""Hukbong Mapagpalaya ng Bayan"" during the Japanese occupation?",Castro,1
+246,What is the name of the battle in 1521 where Ferdinand Magellan was killed by Lapu-Lapu?,Mactan,1
+247,Who was the first Filipino to win a Grammy Award?,Pecpec,1
+248,What is the name of the famous chocolate hills in Bohol?,Chocolate,1
+249,"Which Philippine president is known as the ""President of the Poor""?",Aquino,1
+250,Who is the first Filipino to win an Olympic silver medal?,Tapales,1
+251,"What is the name of the Philippine national hero who is also known as ""Kalayaan""?",Bonifacio,1
+252,Who was the leader of the Philippine guerrilla forces during World War II?,Guerrero,1
+253,What is the name of the treaty that recognized Philippine independence from the United States in 1946?,Treaty of Manila,1
+254,"Which Philippine province is known as the ""Summer Capital of the Philippines""?",Baguio,1
+255,Who is the first Filipino to win the Pulitzer Prize?,Carlos,1
+256,"What is the name of the famous underground cemetery in Nagcarlan, Laguna?",Nagcarlan,1
+257,"Who was the leader of the ""Bagong Katipunan"" during the 1960s?",Sison,1
+258,"What is the name of the famous waterfall in Iligan City known as the ""City of Majestic Waterfalls""?",Maria,1
+259,"Which Philippine president is known as the ""President of the Second Philippine Republic""?",Quirino,1
+260,Who is the first Filipino-American to serve as the Attorney General of the United States?,Gonzales,1
+261,What is the name of the volcanic island in Batangas known for its beautiful lake inside the crater?,Taal,1
+262,"Who was the leader of the ""Moro National Liberation Front"" during the 1970s?",Misuari,1
+263,What is the name of the famous national park in Davao City known for its durian fruit?,Eden,1
+264,"Which Philippine president is known as the ""President of the New Society""?",Marcos,1
+265,Who is the first Filipino to win a Tony Award?,Bacani,1
+266,What is the name of the historic trail used during World War II by General Douglas MacArthur and his troops?,Bataan,1
+267,"Who was the leader of the ""Nagkakaisang Taong Bayan Laban sa Hapon"" during World War II?",Tolentino,1
+268,What is the name of the famous underground river in Palawan that is a UNESCO World Heritage Site?,Puerto Princesa,1
+269,"Which Philippine province is known as the ""Rice Granary of the Philippines""?",Nueva Ecija,1
+270,Who is the first Filipino to win a Grammy Award for Best New Artist?,Pecpec,1
+271,What is the name of the volcanic island in Albay known for its perfect cone shape?,Mayon,1
+272,"Who was the leader of the ""New People's Army"" during the 1960s?",Sison,1
+273,What is the name of the famous island in Palawan known for its clear waters and marine biodiversity?,Palawan,1
+274,"Which Philippine president is known as the ""President of the Third Philippine Republic""?",Diosdado,1
+275,Who is the first Filipino to win an Olympic bronze medal?,Dy,1
+276,What is the name of the famous national park in Zambales known for its white sand beaches?,Anawangin,1
+277,"Who was the leader of the ""Moro Islamic Liberation Front"" during the 1990s?",Salamat,1
+278,What is the name of the historic cave in Cagayan known for its ancient burial sites?,Callao,1
+279,"Which Philippine province is known as the ""Land of Promise""?",Cotabato,1
+280,Who is the first Filipino to win the Pulitzer Prize for Fiction?,Carlos,1
+281,What is the name of the famous volcano in Camiguin known for its hot and cold springs?,Hibok-Hibok,1
+282,"Who was the leader of the ""Communist Party of the Philippines"" during the 1970s?",Sison,1
+283,What is the name of the famous mountain in Benguet known for its rice terraces?,Banaue,1
+284,"Which Philippine president is known as the ""Father of Land Reform""?",Garcia,1
+285,Who is the first Filipino-American to win an Academy Award?,Tolentino,1
+286,What is the name of the historic island in Palawan known for its Japanese shipwrecks from World War II?,Coron,1
+287,"Who was the leader of the ""Bangsamoro Islamic Freedom Fighters"" during the 2000s?",Esmail,1
+288,What is the name of the famous marine sanctuary in Apo Island known for its diverse marine life?,Apo,1
+289,"Which Philippine province is known as the ""Land of Gold""?",Benguet,1
+290,Who is the first Filipino to win the Nobel Prize for Literature?,Laurel,1
+291,What is the name of the famous volcano in Negros Oriental known for its sulfuric crater lake?,Kanlaon,1
+292,"Who was the leader of the ""Abu Sayyaf Group"" during the 1990s?",Abdurajak,1
+293,What is the name of the historic town in Ilocos Norte known for its preserved Spanish colonial architecture?,Vigan,1
+294,"Which Philippine president is known as the ""Champion of Democracy""?",Aquino,1
+295,Who is the first Filipino to win an Olympic gold medal in boxing?,Mansueto,1
+296,What is the name of the famous marine reserve in Tubbataha Reef known for its coral reefs and marine biodiversity?,Tubbataha,1
+297,"Who was the leader of the ""Philippine Nationalist Party"" during the 1930s?",Quezon,1
+298,What is the name of the famous river in Bohol known for its boat cruises with lunch on board?,Loboc,1
+299,"Which Philippine province is known as the ""Emerald Isle of the Philippines""?",Marinduque,1
