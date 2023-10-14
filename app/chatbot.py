@@ -25,7 +25,7 @@ def get_most_similar_response(df, query, top_k=1):
 
 st.title("RandoBot")
 
-df = pd.read_csv('df.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/rhandypiedadmartinez/randobot/main/app/df.csv')
 
 # Initialize chat history
 if "messages" not in st.session_state:
