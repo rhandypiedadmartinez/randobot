@@ -9,6 +9,13 @@ import matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
 from collections import Counter
 from wordcloud import WordCloud
+import spacy
+import re
+import en_core_web_sm
+import spacy
+
+# Load the "en_core_web_sm" model
+nlp = spacy.load("en_core_web_sm")
 
 def get_most_similar_response(df, query, top_k=1):
     # Step 1: Prepare Data
@@ -39,19 +46,38 @@ def get_most_similar_response(df, query, top_k=1):
     return ["Surely, "] + most_similar_responses
 
 
+def tokenize(text):
+	doc = nlp(text)
+	return doc
+
+def remove_stop_words(doc):
+	filtered_tokens = [token.text for token in doc if not token.is_stop]
+	filtered_text = ' '.join(filtered_tokens)
+	return (' '.join(filtered_tokens))
+
+def remove_special_keys(filtered_text):
+	pattern = r'[^a-zA-z0-9\s(\)\[\]\{\}]'
+	cleaned_text = re.sub(pattern, '', filtered_text)
+	return cleaned_text.strip(' ')
+
+# For data cleaning
+def treat(text):
+	return remove_special_keys(remove_stop_words(tokenize(text)))
 
 # Function to generate word frequency bar graph
 def generate_word_frequency_bar_graph(str_input, role):
     if str_input=="":
         return
 
+    str_input = treat(str_input)
+    
     words = word_tokenize(str_input)
     word_counts = Counter(words)
     word_list, frequency_list = zip(*word_counts.most_common())
 
     # Create a bar graph
     fig, ax = plt.subplots(figsize=(12, 6))
-    ax.bar(word_list, frequency_list)
+    ax.bar(word_list[:10], frequency_list[:10])
     ax.set_xlabel('Words')
     ax.set_ylabel('Frequency')
     ax.set_title(f'{role} Word Frequency Bar Graph')
@@ -62,10 +88,10 @@ def generate_word_frequency_bar_graph(str_input, role):
 
 # Function to generate WordCloud
 def generate_wordcloud(str_input, role):
-    try:
-        wordcloud = WordCloud(width=800, height=800, background_color='white', min_font_size=10).generate(str_input)
-
-        # Plot the WordCloud image
-        st.image(wordcloud.to_image(), caption=f"{role} WordCloud")
-    except:
-        pass
+	try:
+		str_input = treat(str_input)
+		wordcloud = WordCloud(width=800, height=800, background_color='white', min_font_size=10).generate(str_input)
+		# Plot the WordCloud image
+		st.image(wordcloud.to_image(), caption=f"{role} WordCloud")
+	except:
+		pass
