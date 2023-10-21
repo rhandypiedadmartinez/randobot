@@ -24,6 +24,7 @@ df = pd.read_csv(f"{current_directory}/app/df.csv", delimiter=";")
 df = df.drop_duplicates(subset='response')
 
 st.title("RandoBot")
+st.write("This chatbot is your go-to companion for exploring the facts about the human body. ")
 
 # Initialize chat history
 if "messages" not in st.session_state:
@@ -81,7 +82,7 @@ if st.button("Chat Analytics"):
        .replace(",","") \
        .strip()
 
-    if concatenated_user_input!="" and concatenated_chatbot_response!="":
+    if concatenated_user_input!="" or concatenated_chatbot_response!="":
         generate_word_frequency_bar_graph(concatenated_user_input, "User")
         generate_wordcloud(concatenated_user_input, "User")
         generate_word_frequency_bar_graph(concatenated_chatbot_response, "Chatbot")
