@@ -45,6 +45,25 @@ def get_most_similar_response(df, query, top_k=1):
         return ["I guess it's "] + most_similar_responses    
     return ["Surely, "] + most_similar_responses
 
+def create_bag_of_words(text):
+    # Tokenize the input text
+    doc = nlp(treat(text))
+    print(doc)
+
+    # Count word frequencies
+    word_freq = {}
+    for token in doc:
+        word = token.text.strip().lower()
+        if word and not word.isspace():
+            if token.text not in word_freq:
+                word_freq[token.text] = 1
+            else:
+                word_freq[token.text] += 1
+
+    # Sort the dictionary by frequency in descending order
+    sorted_word_freq = dict(sorted(word_freq.items(), key=lambda item: item[1], reverse=True))
+
+    return sorted_word_freq
 
 def tokenize(text):
 	doc = nlp(text)
@@ -69,22 +88,21 @@ def generate_word_frequency_bar_graph(str_input, role):
     if str_input=="":
         return
 
-    str_input = treat(str_input)
-    
-    words = word_tokenize(str_input)
-    word_counts = Counter(words)
-    word_list, frequency_list = zip(*word_counts.most_common())
+    text = treat(str_input)
 
-    # Create a bar graph
-    fig, ax = plt.subplots(figsize=(12, 6))
-    ax.bar(word_list[:10], frequency_list[:10])
-    ax.set_xlabel('Words')
-    ax.set_ylabel('Frequency')
-    ax.set_title(f'{role} Word Frequency Bar Graph')
-    ax.set_xticklabels(word_list, rotation=45, fontsize=8)
+    if text:
+        word_freq = create_bag_of_words(text)
 
-    # Show the plot
-    st.pyplot(fig)
+        # Plot the bag of words
+        fig, ax = plt.subplots(figsize=(12, 6))
+        ax.bar(word_freq.keys(), word_freq.values())
+        ax.set_xlabel('Words')
+        ax.set_ylabel('Frequency')
+        ax.set_title(f'{role} {role} Bag of Words')
+        ax.set_xticklabels(word_freq.keys(), rotation=45, fontsize=8)
+
+        # Show the plot
+        st.pyplot(fig)
 
 # Function to generate WordCloud
 def generate_wordcloud(str_input, role):
